@@ -1,0 +1,16 @@
+.sam{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    color:aliceblue
+}
+
+body{
+    background-image: url(tech.jpg);
+    background-color:rgb(194, 199, 185);
+    background-repeat: no-repeat;
+   
+    text-decoration-color:rgb(135, 139, 130);
+    background-size: 100%;
+    font-size: 30px;
+}
